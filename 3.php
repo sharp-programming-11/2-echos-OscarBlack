@@ -1,6 +1,6 @@
 <?php
 
-$my_str = "home";
+$my_str = "page3";
 
 ?>
 
